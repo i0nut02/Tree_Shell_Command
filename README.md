@@ -1,6 +1,6 @@
 # Tree_Shell_Command
 
-I make a copy of tree command in Linux, but i don't implement all the optional arguments, you can find all with --help command <br>
+I make a copy of tree command in Linux, but i don't implement all the optional arguments, you can find all with --help command
 typing "./example.out tree --help" on your prompt after compiling main.c 
 
 Tree is a recursive directory listing program that produces a depth indented listing of files. With no arguments, tree lists the files in the current directory. Upon completion of listing all files/directories found, tree returns the total number of files and/or directories listed.
